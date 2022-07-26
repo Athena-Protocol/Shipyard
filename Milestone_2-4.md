@@ -39,7 +39,8 @@ As of 2022/07/05 we have a successfully configured our servers to run operator a
 ## Operating Athena Middelware 
 
 
-[Market](http://15.206.100.41:8000/)
+[Configured Market Fork](http://15.206.100.41:8000/)
+
 [Provider](http://15.206.100.41:8030/)
 
 *Operator* : Minikube Dashboard
