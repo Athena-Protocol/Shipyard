@@ -24,7 +24,7 @@ As of 2022/07/05 we have a successfully configured our servers to run operator a
 * Complete
  * [Scope signed claims and credentials](https://docs.google.com/document/d/1Qw80dr4oZY4Mr6omlCsfPwbcSgHVO82jUCq3A_ZMGuo/edit?usp=sharing)
  * Minikube Cluster Deployment
- * [PFS Hosting](http://15.206.100.41:5001/webui)
+ * [IPFS Hosting](http://15.206.100.41:5001/webui)
  * Set Up Provider
  * Configure Local Provider With Local Operator 
  * Run successful c2d using local components
