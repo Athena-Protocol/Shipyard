@@ -21,7 +21,7 @@ As of 2022/07/05 we have a successfully configured our servers to run operator a
 2. Runs configured with a local IPFS node
 3. Successfully executes a C2d job using local configuration of Operator & Provider , and Ocean Protocol Foundations Aquarius 
 
-* Complete
+#### Complete
  * [Scope signed claims and credentials](https://docs.google.com/document/d/1Qw80dr4oZY4Mr6omlCsfPwbcSgHVO82jUCq3A_ZMGuo/edit?usp=sharing)
  * Minikube Cluster Deployment
  * [IPFS Hosting](http://15.206.100.41:5001/webui)
@@ -29,7 +29,7 @@ As of 2022/07/05 we have a successfully configured our servers to run operator a
  * Configure Local Provider With Local Operator 
  * Run successful c2d using local components
     
-* In Progress
+#### In Progress
   * Admin Panel- Undergoing redesign due to the removal of liquidity pools. 
   * Using Provider/encrypt endpoint for IPFS file content Encrypt/ Decrypt 
   * Design & Implement Signed Claims
