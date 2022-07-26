@@ -7,9 +7,9 @@
 
 [See the Milestone Timeline For an updated projection of our deliverables from now until July 15th ](https://docs.google.com/spreadsheets/d/1VQMLs-ONgZZUVKIQaUMwMlbsIjY73pPVB-AxtxIiIow/edit?usp=sharing)
 
-Overview
+### Overview
 
-Provider / Operator 
+#### Provider / Operator 
 Our Team encountered several challenges while configuring the Operator & Provider that extended development time, namely;
 
 1. The choice to run our test using the Ocean Market Place introduced issues with the UI that required work around. The most important of which is that Free Assets are not usable with Compute to data. Issues are being created by Spirinova over the next few days.
