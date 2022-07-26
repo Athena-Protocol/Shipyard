@@ -43,7 +43,7 @@ As of 2022/07/05 we have a successfully configured our servers to run operator a
 
 ### [Provider](http://15.206.100.41:8030/) ###
 
-### *Operator* ### : Minikube Dashboard
+### *Operator* : Minikube Dashboard
 
 1. Execute below step in your command line –
 
